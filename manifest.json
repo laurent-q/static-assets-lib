@@ -6,11 +6,11 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
-      "version": "19.01.1",
+      "version": "21.09.2",
       "versionDate": "2026-03-03",
       "size": 133640193,
       "downloadURL": "https://github.com/laurent-q/static-assets-lib/releases/download/v1.0/core.data",
-      "localizedDescription": "System update via Release (Auto-Size)",
+      "localizedDescription": "System update (Auto-detected v21.09.2)",
       "iconURL": "https://www.gstatic.com/youtube/img/branding/youtubelogo/2x/youtubelogo_30.png"
     }
   ]
